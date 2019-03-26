@@ -1,0 +1,82 @@
+{
+  "configVersion": 1,
+  "timestamp": 1553643065974,
+  "index": "/Angular_ToDo_PWA/AngularPwa/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/Angular_ToDo_PWA/AngularPwa/es2015-polyfills.1e04665e16f944715fd2.js",
+        "/Angular_ToDo_PWA/AngularPwa/favicon.ico",
+        "/Angular_ToDo_PWA/AngularPwa/index.html",
+        "/Angular_ToDo_PWA/AngularPwa/main.e08d384297dede8bf7b5.js",
+        "/Angular_ToDo_PWA/AngularPwa/polyfills.8bbb231b43165d65d357.js",
+        "/Angular_ToDo_PWA/AngularPwa/runtime.26209474bfa8dc87a77c.js",
+        "/Angular_ToDo_PWA/AngularPwa/styles.ae41137544e6ded76441.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/Angular_ToDo_PWA/AngularPwa/MaterialIcons-Regular.012cf6a10129e2275d79.woff",
+        "/Angular_ToDo_PWA/AngularPwa/MaterialIcons-Regular.570eb83859dc23dd0eec.woff2",
+        "/Angular_ToDo_PWA/AngularPwa/MaterialIcons-Regular.a37b0c01c0baf1888ca8.ttf",
+        "/Angular_ToDo_PWA/AngularPwa/MaterialIcons-Regular.e79bfd88537def476913.eot",
+        "/Angular_ToDo_PWA/AngularPwa/assets/icons/icon-128x128.png",
+        "/Angular_ToDo_PWA/AngularPwa/assets/icons/icon-144x144.png",
+        "/Angular_ToDo_PWA/AngularPwa/assets/icons/icon-152x152.png",
+        "/Angular_ToDo_PWA/AngularPwa/assets/icons/icon-192x192.png",
+        "/Angular_ToDo_PWA/AngularPwa/assets/icons/icon-384x384.png",
+        "/Angular_ToDo_PWA/AngularPwa/assets/icons/icon-512x512.png",
+        "/Angular_ToDo_PWA/AngularPwa/assets/icons/icon-72x72.png",
+        "/Angular_ToDo_PWA/AngularPwa/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/Angular_ToDo_PWA/AngularPwa/MaterialIcons-Regular.012cf6a10129e2275d79.woff": "c6c953c2ccb2ca9abb21db8dbf473b5a435f0082",
+    "/Angular_ToDo_PWA/AngularPwa/MaterialIcons-Regular.570eb83859dc23dd0eec.woff2": "09963592e8c953cc7e14e3fb0a5b05d5042e8435",
+    "/Angular_ToDo_PWA/AngularPwa/MaterialIcons-Regular.a37b0c01c0baf1888ca8.ttf": "fc05de31234e0090f7ddc28ce1b23af4026cb1da",
+    "/Angular_ToDo_PWA/AngularPwa/MaterialIcons-Regular.e79bfd88537def476913.eot": "26fb8cecb5512223277b4d290a24492a0f09ede1",
+    "/Angular_ToDo_PWA/AngularPwa/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/Angular_ToDo_PWA/AngularPwa/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/Angular_ToDo_PWA/AngularPwa/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/Angular_ToDo_PWA/AngularPwa/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/Angular_ToDo_PWA/AngularPwa/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/Angular_ToDo_PWA/AngularPwa/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/Angular_ToDo_PWA/AngularPwa/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/Angular_ToDo_PWA/AngularPwa/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/Angular_ToDo_PWA/AngularPwa/es2015-polyfills.1e04665e16f944715fd2.js": "b7a81c61d32b0b12737f0c13f45973ba391cd7f9",
+    "/Angular_ToDo_PWA/AngularPwa/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "/Angular_ToDo_PWA/AngularPwa/index.html": "222d5d535bfe25be43fb88a7562784b34bc68fbf",
+    "/Angular_ToDo_PWA/AngularPwa/main.e08d384297dede8bf7b5.js": "902acb64ebd8abcf669eeab5808bdcbb42ddf43d",
+    "/Angular_ToDo_PWA/AngularPwa/polyfills.8bbb231b43165d65d357.js": "ffa449995bf2eba2ccd0a002417214f7eb75e7b5",
+    "/Angular_ToDo_PWA/AngularPwa/runtime.26209474bfa8dc87a77c.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "/Angular_ToDo_PWA/AngularPwa/styles.ae41137544e6ded76441.css": "779f9100c8d8475b66d88655ce55026d1468e0ae"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
