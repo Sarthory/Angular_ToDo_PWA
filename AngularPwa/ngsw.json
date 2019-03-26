@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1553643065974,
+  "timestamp": 1553643529857,
   "index": "/Angular_ToDo_PWA/AngularPwa/index.html",
   "assetGroups": [
     {
@@ -55,7 +55,7 @@
     "/Angular_ToDo_PWA/AngularPwa/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/Angular_ToDo_PWA/AngularPwa/es2015-polyfills.1e04665e16f944715fd2.js": "b7a81c61d32b0b12737f0c13f45973ba391cd7f9",
     "/Angular_ToDo_PWA/AngularPwa/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/Angular_ToDo_PWA/AngularPwa/index.html": "222d5d535bfe25be43fb88a7562784b34bc68fbf",
+    "/Angular_ToDo_PWA/AngularPwa/index.html": "530517a387d8536914abf725edb83913f3684927",
     "/Angular_ToDo_PWA/AngularPwa/main.e08d384297dede8bf7b5.js": "902acb64ebd8abcf669eeab5808bdcbb42ddf43d",
     "/Angular_ToDo_PWA/AngularPwa/polyfills.8bbb231b43165d65d357.js": "ffa449995bf2eba2ccd0a002417214f7eb75e7b5",
     "/Angular_ToDo_PWA/AngularPwa/runtime.26209474bfa8dc87a77c.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
